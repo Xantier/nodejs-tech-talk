@@ -1,14 +1,17 @@
 {
-  "name": "node-tech-talk",
+  "name": "nodejs-tech-talk",
+  "author": "Jussi Hallila <Jussi@Hallila.com>",
   "version": "0.3.0",
   "description": "Some example files for node tech talk",
-  "repository": "https://github.com/Xantier/nodejs-tech-talk.git",
-  "author": "Jussi Hallila <Jussi@Hallila.com>",
+  "license" : "WTFPL",
+  "repository": { 
+    "type" : "git", 
+    "url" :   "https://github.com/Xantier/nodejs-tech-talk.git"
+  },
   "scripts": {
     "start": "node module_system/secondModule.js",
     "test": "mocha test/testSpec.spec.js"
   },
-  "license" : "WTFPL",
   "dependencies": {
     "async": "~0.2.8",
     "express": "~3.2.4",
