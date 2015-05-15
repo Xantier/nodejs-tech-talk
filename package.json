@@ -9,7 +9,7 @@
     "url" :   "https://github.com/Xantier/nodejs-tech-talk.git"
   },
   "scripts": {
-    "start": "node module_system/secondModule.js",
+    "start": "node moduleSystem/secondModule.js",
     "test": "mocha test/testSpec.spec.js"
   },
   "dependencies": {

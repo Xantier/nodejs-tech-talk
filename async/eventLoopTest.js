@@ -28,8 +28,7 @@ var chalk = require('chalk');
   };
 
   outputDelay(300);
-
-  // heavy stuff happening every 2 seconds here
+ // heavy stuff happening every 2 seconds here
   setInterval(function compute() {
     var sum = 0;
 
