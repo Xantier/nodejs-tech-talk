@@ -38,7 +38,7 @@
 	line-height: 1;
 }
 
-.themedArea h1 { font-size: 2.77em; }
+.themedArea h1 { font-size: 3.77em; }
 .themedArea h2 { font-size: 2.11em;	}
 .themedArea h3 { font-size: 1.55em;	}
 .themedArea h4 { font-size: 1em; }
